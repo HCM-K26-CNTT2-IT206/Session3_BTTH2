@@ -163,12 +163,4 @@ Bây giờ hãy phân tích phản hồi sau:
 
 ---
 
-## 5. Checklist đối chiếu yêu cầu đề bài
 
-- [x] Prompt hệ thống phân tích đủ 3 thuộc tính: Sentiment, Topic, Satisfaction Score (+ summary)
-- [x] Cấu trúc Few-shot với **4 ví dụ** (>= 3), đại diện 3 nhóm cảm xúc, kèm phân loại chi tiết
-- [x] Quy tắc multi-tagging: vừa khen giao hàng vừa chê sản phẩm thì gắn cả `Product` và `Delivery`
-- [x] Khung CREATE đầy đủ 6 thành phần, vai trò chuyên gia phân tích dữ liệu thị trường
-- [x] Đầu ra JSON object đúng định dạng yêu cầu: `sentiment`, `topics` (mảng), `score`, `summary`
-- [x] `summary` dưới 15 từ, lọc bỏ từ cảm thán thừa thãi
-- [x] Đầu ra sạch, không lời chào, không code fence, sẵn sàng tích hợp Dashboard
