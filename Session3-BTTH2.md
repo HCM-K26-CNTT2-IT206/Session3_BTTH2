@@ -1,6 +1,5 @@
 # [Bài thực hành 2] Phân tích cảm xúc và gắn tag phản hồi khách hàng
 
-**Sinh viên:** Hà Gia Bách
 **Kỹ thuật áp dụng:** Few-shot Prompting + Khung CREATE + Multi-tagging + Ép đầu ra JSON sạch
 
 ---
